@@ -4,6 +4,12 @@
   <br>
   <img src="https://i.ppy.sh/a471a33e3fcb20681e484c57f691d7b8fb072ffc/68747470733a2f2f696d6167652e6962622e636f2f6832367872792f70644c377567382e706e67">
 </p>
+ 
+ ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
     <p align="center">
    <b>Skills: Java / Python / HTML / CSS</b>
 <ul>
