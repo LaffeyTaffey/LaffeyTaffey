@@ -12,6 +12,7 @@
 💬 Ask me about Declaration of Independence<br>
 📫 How to reach me: Discord: LaffeyZaychik#0743<br>
 </p>
+
 <p align="center">
   <a href="https://github.com/LaffeyTaffey">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
@@ -29,10 +30,78 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
   </p>
   
-<p align="center">  
-<img src="https://image.myanimelist.net/ui/NMhxKjGdQ21NnPG4rzwny1CT_T2ZChq_fG-GwE3yyO5MO-8AEr91B53ALUJo3Y4z"> 
+ <h1 style="color:red;font-size:40px;"><p align="center">Aurora Sya Lis Goodereste</p></h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34617016/154966407-324569e3-e8ad-4940-85d0-b57e98afdb04.jpg" width=650>
+  </p>
+  <p align="center">Princess Syalis (スヤリス姫 Suyarisu Hime) is the protagonist of the Sleepy Princess in the Demon Castle manga. Her full name is Aurora Sya Lis Goodereste and she is the princess of the Unified Human Nation of Goodereste. She was kidnapped by the Demon King to make the kingdom fear him and to lure the Hero to fight him so they could end the war between humans and demons. She has been at the Demon King Castle for four years as of the manga.
 </p>
+
+<h1 style="color:red;font-size:40px;"><p align="center">Status</p></h1>
+ 
+ | STATUS | INFO    |
+|--------|------------------------------------|
+|Kanji Name	| スヤリス姫 |
+|Romaji Name	| Suyarisu Hime / Arora Suyarisu Gooderete  |
+|Race	| Human |
+|Age	|19 (Chapter 1) 23 (Chapter 257)  |
+|Birthday	| December 22 |
+|Gender	| Female | 
+|Height	| 150cm |
+|Weight	| 62kg |
+|Blood Type	| O |
+|Hair Color	| Wisteria/Silver |
+|Eyes Color	| Royal Purple |
+
+<h1 style="color:red;font-size:40px;"><p align="center">Family</p></h1>
+
+ | FAMILY | INFO  
+|--------|------------------------------------|
+| Relatives	| King Goodereste (Father), Aurora Nem Lis Goodereste (Mother), Aurora Como Lis Goodreste (Paternal Aunt), Dawner the Hero (fiancé) |
+|Friends	| Demon King, Demon Cleric, Teddy Demons, Everyone in the Demon Castle  |
+
+<h1 style="color:red;font-size:40px;"><p align="center">Others</p></h1>
+
+| OTHER | INFO  
+|--------|------------------------------------|
+|First Appearance	| Chapter 1 (manga), Episode 1 (anime)  |
+|Like	| Sleeping, King Chocolate Marshmallows , Lamonade  |
+|Voice Actor	| Inori Minase (Japanese) Kira Buckland (English)  |
+
+<p align="center"><img src="https://user-images.githubusercontent.com/34617016/154978373-3f616345-f498-4a14-9b87-df6cd50be474.png"</p>
+
+
+# Manga Recommendation
+
+| Manga Name| Cover Art                       |
+|--------|------------------------------------|
+| Sono Bisque Doll wa Koi wo Suru  | <img src="https://user-images.githubusercontent.com/34617016/154968448-3c696473-42da-45e9-ab65-515209a3359b.png" width="900px" height="900px"> |
+| Soredemo Ayumu wa Yosetekuru     | <img src="https://user-images.githubusercontent.com/34617016/154971148-51ff8850-0c2a-4508-90c5-6242cb4f9776.jpg" width="900px" height="900px"> |
+| nige jouzu no wakagimi           | <img src="https://user-images.githubusercontent.com/34617016/154971504-c56e21f2-2e8d-4015-81e5-ab6b9aa63167.jpg" width="900px" height="900px"> |
+|Maoujou de Oyasumi                | <img src="https://user-images.githubusercontent.com/34617016/154972269-730e09b2-9584-4018-a591-41f1bc9b4357.jpg" width="900px" height="900px"> |
+|Aharen-san wa Hakarenai           | <img src="https://user-images.githubusercontent.com/34617016/154972571-24370e62-7272-4466-ac21-4bd6993f8699.jpg" width="900px" height="900px"> |
+|Suki na Ko ga Megane wo Wasureta  | <img src="https://user-images.githubusercontent.com/34617016/154972936-d3b93a10-abed-4c0a-8b34-5b7631811a15.jpg" width="900px" height="900px"> |
+|Angel Beats! Heavens Door         | <img src="https://user-images.githubusercontent.com/34617016/154973212-6712489b-406c-40bf-9fe3-e7c58acb04a7.png" width="900px" height="900px"> |
+|Angel Beats! The Last Operation   | <img src="https://user-images.githubusercontent.com/34617016/154973392-a6393cf5-90a8-4502-b7ad-1a5556d10d6d.jpg" width="900px" height="900px"> |
+|Jashin Chan Dropkick              | <img src="https://user-images.githubusercontent.com/34617016/154973711-657619e8-4913-454d-a3bb-060805dd39bf.jpg" width="900px" height="900px"> |
+|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken  | <img src="https://user-images.githubusercontent.com/34617016/154974042-bc861959-0b9b-4f3f-a018-04e63c33a192.jpg" width="900px" height="900px"> |
+|Shadow House     |  <img src="https://user-images.githubusercontent.com/34617016/154974754-58f2e779-57ff-4f08-9cea-9cd852bf7132.jpg" width="900px" height="900px"> | 
+|The Girl, the Shovel, and the Evil Eye   | <img src="https://user-images.githubusercontent.com/34617016/154975220-ea725939-3aa3-495c-93af-74e0faed5ac9.jpg" width="900px" height="900px"> |
+
+# Light Novel Recommendation
+
+| Manga Name| Cover Art                       |
+|--------|------------------------------------|
+|Mushoku Tensei: Isekai Ittara Honki Dasu |<img src="https://user-images.githubusercontent.com/34617016/154975710-16d44487-324b-47eb-89cf-43debea0d254.jpg" width="900px" height="900px"> |
+
 <br>
+
+# Gallery  
+![previewfile_2217899039](https://user-images.githubusercontent.com/34617016/154966132-4c873d7c-13cd-4be2-8403-b631f832c5d1.gif)
+![previewfile_2265394105](https://user-images.githubusercontent.com/34617016/154966175-51360d7d-2fc8-4e6a-8958-f8094b03820f.gif)
+![previewfile_2023531671](https://user-images.githubusercontent.com/34617016/154966185-a4cdacdc-ae14-41ba-8e3e-855e36a6829d.gif)
+![previewfile_2292710588](https://user-images.githubusercontent.com/34617016/154966188-6af21ce2-55e6-4ec0-ac82-78df5b02b152.gif)
+
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LaffeyTaffey)](https://github.com/ryo-ma/github-profile-trophy)
