@@ -60,7 +60,7 @@
 | Relatives	| King Goodereste (Father), Aurora Nem Lis Goodereste (Mother), Aurora Como Lis Goodreste (Paternal Aunt), Dawner the Hero (fiancé) |
 |Friends	| Demon King, Demon Cleric, Teddy Demons, Everyone in the Demon Castle  |
 
-<h1 style="color:red;font-size:40px;"><p align="center">Others</p></h1>
+<h1 style="font-size:40px;"><p align="center">Others</p></h1>
 
 | OTHER | INFO  
 |--------|------------------------------------|
@@ -181,7 +181,6 @@ I limped all the way to the woods where I am now hiding and writing this.
 I will update as soon as I can but I need to get out of here soon because I can hear people looking for me.
 ```
 
-
 # ⚡ Fun fact:
 ```
 - i accidentally shouted hog rider when i saw my wife getting humped by a black dude It was midnight, 12:23AM,
@@ -204,6 +203,7 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 # Profile Views
 ![Profile views](https://gpvc.arturio.dev/LaffeyTaffey)  
+  
 # Wakatime
 [![wakatime](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a.svg)](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a)
 
