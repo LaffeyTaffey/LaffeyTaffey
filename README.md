@@ -29,7 +29,7 @@
   <a href="https://osu.ppy.sh/users/9230310">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
   
-  <br><br>
+  <br>
   <img src="https://count.getloli.com/get/@:name" alt=":name"/>
   </p>
   
