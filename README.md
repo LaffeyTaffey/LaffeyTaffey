@@ -28,10 +28,10 @@
   
   <a href="https://osu.ppy.sh/users/9230310">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
-  </p>
   
-<p align="center"><img src="https://count.getloli.com/get/@:name" alt=":name"/></p>
-
+  <br><br>
+  <img src="https://count.getloli.com/get/@:name" alt=":name"/>
+  </p>
   
  <h1 style="color:red;font-size:40px;"><p align="center">Aurora Sya Lis Goodereste</p></h1>
 <p align="center">
