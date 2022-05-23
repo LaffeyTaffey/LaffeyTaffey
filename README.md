@@ -30,7 +30,7 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
   
   <br>
-  <img src="https://count.getloli.com/get/@:name" alt=":name"/>
+  <img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=rule34" alt=":name"/>
   </p>
   
  <h1 style="color:red;font-size:40px;"><p align="center">Aurora Sya Lis Goodereste</p></h1>
@@ -210,4 +210,7 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 # Wakatime
 [![wakatime](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a.svg)](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a)
 
-![:name](https://count.getloli.com/get/@:name)
+<p>
+  <p align="center">
+<img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=gelbooru" alt=":name"/>
+</p>
