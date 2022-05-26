@@ -30,7 +30,7 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
   
   <br>
-  <img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=rule34" alt=":name"/>
+  <img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=rule34"/>
   </p>
   
  <h1 style="color:red;font-size:40px;"><p align="center">Aurora Sya Lis Goodereste</p></h1>
@@ -212,5 +212,5 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 <p>
   <p align="center">
-<img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=gelbooru" alt=":name"/>
+<img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=gelbooru"/>
 </p>
