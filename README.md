@@ -43,8 +43,3 @@
   
 # Wakatime
 [![wakatime](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a.svg)](https://wakatime.com/badge/user/058f77db-91f9-490d-a27a-fef7c36e1bd7/project/928a8df8-a887-49df-b8e5-b8ae56699e7a)
-
-<p>
-  <p align="center">
-<img src="https://count.getloli.com/get/@:LaffeyTaffey?theme=gelbooru" />
-</p>
